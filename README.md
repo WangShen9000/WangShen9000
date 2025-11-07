@@ -1,9 +1,3 @@
-<p align="center"><a href="https://github.com/WangShen9000">
-  <img width="80%" alt="Hello, I'm WangShen9000. I love building amazing projects!" src="https://github-readme-stats.vercel.app/api/pin/?username=WangShen9000&repo=Frontend-Project&theme=default" />
-</a></p>
-
-<br />
-
 I'm a passionate Full-Stack developer and AI enthusiast 🚀
 
 **About me**
@@ -27,13 +21,12 @@ I'm a passionate Full-Stack developer and AI enthusiast 🚀
 
 ## 📊 GitHub Statistics
 
-| <a href="https://github.com/WangShen9000">
+<a href="https://github.com/WangShen9000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=2e3440&text_color=24292f&icon_color=0366d6" alt="WangShen9000's GitHub stats" />
-</a> |
+</a>
 <a href="https://github.com/WangShen9000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=2e3440&text_color=24292f&icon_color=0366d6" />
-</a> |
-| ------------- | ------------- |
+</a>
 
 ## 🏆 Top Repositories
 
@@ -41,9 +34,6 @@ I'm a passionate Full-Stack developer and AI enthusiast 🚀
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WangShen9000&repo=Frontend-Project&theme=buefy&bg_color=ffffff" />
 </a>
 
-<a href="https://github.com/WangShen9000/CLAUDE-CODEX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WangShen9000&repo=CLAUDE-CODEX&theme=buefy&bg_color=ffffff" />
-</a>
 
 <br />
 <br />
