@@ -51,16 +51,13 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show=reviews,discussions_started&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&theme=dark" width="400"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=dark" width="400"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&column=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dark" width="400"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=dark&hide_border=true&background=000000" width="400"/></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&cache_seconds=3600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&cache_seconds=3600" height="150"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&theme=flat&bg_color=ffffff" />
 </div>
 
 ---
