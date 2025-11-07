@@ -51,13 +51,13 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&cache_seconds=3600" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&cache_seconds=3600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&bg_color=f6f8fa&title_color=24292f&text_color=656d76&icon_color=0969da&cache_seconds=3600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&layout=compact&bg_color=f6f8fa&title_color=24292f&text_color=656d76&icon_color=0969da&cache_seconds=3600" height="150"/>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&theme=flat&bg_color=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&row=1&column=8&margin-w=10&margin-h=10&no-frame=true&theme=github&bg_color=f6f8fa" />
 </div>
 
 ---
