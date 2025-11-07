@@ -38,16 +38,5 @@ I'm a passionate Full-Stack developer and AI enthusiast 🚀
 <br />
 <br />
 
-## 🔗 Connect With Me
-
-<a href="https://github.com/WangShen9000">
-  <img align="right" alt="GitHub" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github/github.svg" />
-</a>
-<a href="https://linkedin.com/in/wangshen9000">
-  <img align="right" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin/linkedin.svg" />
-</a>
-<a href="https://twitter.com/wangshen9000">
-  <img align="right" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter/twitter.svg" />
-</a>
 
 ---
