@@ -1,110 +1,45 @@
-### Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-**WangShen9000/WangShen9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🐧
--->
+**About me**
 
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-Hi guys, I'm **Shen** (Milo), a passionate developer and technology enthusiast.
-I'm interested in software development, open-source projects, and exploring new technologies. Feel free to reach out if you share similar interests or have questions!
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-You can visit my GitHub profile at https://github.com/WangShen9000.
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-## 📫 Contact Me
-
-✉️ Email me for collaborations or questions
-💬 Feel free to create issues on my repositories
-🔗 Connect with me on GitHub
-
-## 🚀 My Journey
-
-```diff
-+ Currently Exploring: New Technologies & Innovations
-+ Passionate About: Clean Code & Elegant Solutions
-+ Learning Path: Continuous Growth in Development
-```
-
----
-
-## 🛠️ Technical Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Platform-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&bg_color=f6f8fa&title_color=24292f&text_color=656d76&icon_color=0969da&cache_seconds=3600" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&layout=compact&bg_color=f6f8fa&title_color=24292f&text_color=656d76&icon_color=0969da&cache_seconds=3600" height="150"/>
-</div>
-<br>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&row=1&column=8&margin-w=10&margin-h=10&no-frame=true&theme=github&bg_color=f6f8fa" />
-</div>
+#### Top Repositories
 
----
 
-## 🎯 Focus Areas
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
-| Category | Description |
-|----------|-------------|
-| 🔧 **Development** | Building robust applications |
-| 🌐 **Open Source** | Contributing to community projects |
-| 📚 **Knowledge Sharing** | Documenting insights & learnings |
-| 🤝 **Collaboration** | Working with amazing developers |
+<br />
+<br />
 
----
-
-<details>
-<summary>📝 <b>Click to expand my development philosophy</b></summary>
-
-### Core Principles
-- **Code Quality**: Write clean, maintainable, and efficient code
-- **Continuous Learning**: Stay updated with latest technologies
-- **Community First**: Contribute back to the open-source community
-- **Problem Solving**: Approach challenges with analytical thinking
-
-### Current Focus
-- Exploring modern development frameworks
-- Building meaningful projects
-- Engaging with the developer community
-</details>
-
----
-
-## 🌟 Activity Status
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-</div>
-
----
-
-### 💬 Let's Connect!
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Open for collaborations and interesting conversations!**
-
-<!-- Links section for future use -->
-
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
