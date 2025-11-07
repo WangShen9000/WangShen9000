@@ -52,19 +52,18 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 <div align="center">
   <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1b2e&title_color=f38ba8&text_color=cdd6f4&icon_color=f38ba8&theme=midnight-purple" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show=reviews,discussions_started&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true&theme=dark" height="160"/>
   </a>
   <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_border=true&layout=compact&bg_color=1a1b2e&title_color=f38ba8&text_color=cdd6f4&icon_color=f38ba8&theme=midnight-purple" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=dark" height="160"/>
   </a>
   <a href="https://github.com/WangShen9000">
-    <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&column=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=onedark" height="160"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dark" height="160"/>
   </a>
   <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=onedark&hide_border=true" height="160"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=dark&hide_border=true&background=000000" height="160"/>
   </a>
-</div>tivity-graph.vercel.app/graph?username=WangShen9000&radius=16&custom_title=WangShen9000's%20Contribution%20Graph&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
-
+</div>
 
 ---
 
