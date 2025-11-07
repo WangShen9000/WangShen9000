@@ -51,9 +51,8 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 ## 📈 Performance Metrics
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en&theme=dark" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&theme=dark&layout=compact&locale=en" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&layout=compact&locale=en" />
 
 ---
 
