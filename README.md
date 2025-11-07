@@ -88,7 +88,7 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 </div>
 
