@@ -51,7 +51,13 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 ## 📈 Performance Metrics
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&hide_title=false&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&layout=compact&locale=en" />
+  <img align="" height="137px"
+  src="https://github-readme-stats.vercel.app/api?username=WangShen9000&hide_title=false&hide_bord
+  er=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&locale=en&bg
+  _color=ffffff&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=3600" /><img
+  align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wang
+  Shen9000&hide_title=false&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000
+  &icon_color=000000&layout=compact&locale=en&cache_seconds=3600" />
 
 
 ---
