@@ -51,18 +51,16 @@ You can visit my GitHub profile at https://github.com/WangShen9000.
 
 
 <div align="center">
-  <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show=reviews,discussions_started&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true&theme=dark" height="160"/>
-  </a>
-  <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=dark" height="160"/>
-  </a>
-  <a href="https://github.com/WangShen9000">
-    <img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dark" height="160"/>
-  </a>
-  <a href="https://github.com/WangShen9000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=dark&hide_border=true&background=000000" height="160"/>
-  </a>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show=reviews,discussions_started&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&theme=dark" width="400"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=dark" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=WangShen9000&column=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dark" width="400"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangShen9000&theme=dark&hide_border=true&background=000000" width="400"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
