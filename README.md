@@ -21,12 +21,7 @@ I'm a passionate Full-Stack developer and AI enthusiast 🚀
 
 ## 📊 GitHub Statistics
 
-<a href="https://github.com/WangShen9000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WangShen9000&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=2e3440&text_color=24292f&icon_color=0366d6" alt="WangShen9000's GitHub stats" />
-</a>
-<a href="https://github.com/WangShen9000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangShen9000&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=2e3440&text_color=24292f&icon_color=0366d6" />
-</a>
+
 
 ## 🏆 Top Repositories
 
